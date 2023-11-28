@@ -1,2 +1,4 @@
 # python_imagerecog_face
-Just messing around with cv2 to recognise faces in images
+Just messing around with cv2 to recognise faces in images for fun.
+It draws rectangles around them.
+
